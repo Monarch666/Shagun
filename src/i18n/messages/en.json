@@ -1,0 +1,49 @@
+{
+  "common": {
+    "appName": "Shagun",
+    "tagline": "Wedding Gifting & Memories Platform",
+    "wedding": "Wedding",
+    "blessings": "Blessings & Shagun",
+    "itinerary": "Celebrations Itinerary",
+    "venueCamera": "Venue Disposable Camera",
+    "blessingWall": "Blessing Wall",
+    "rsvp": "RSVP",
+    "poweredBy": "Powered by Shagun"
+  },
+  "guestPortal": {
+    "weddingCelebration": "Wedding Celebration",
+    "heroSubtitle": "With the blessings of our elders and the love of our family and friends",
+    "sendShagun": "Give Shagun Blessing",
+    "openCamera": "Open Venue Camera",
+    "noAppNeeded": "No App Download Needed",
+    "cameraBannerTitle": "Capture the Wedding Through Your Eyes",
+    "cameraBannerDesc": "Take candid moments at the venue! You have a 24-shot limited roll with a retro 90s film filter. Photos develop the next morning at 10:00 AM.",
+    "selectAmount": "Select Shagun Amount",
+    "customAmount": "Or Custom Amount (₹)",
+    "yourName": "Your Name",
+    "blessingMessage": "Heartfelt Blessing / Wish",
+    "hideAmount": "Hide my contribution amount on the public blessing wall",
+    "contributeCta": "Contribute {amount} via UPI",
+    "securedBy": "Secured by Razorpay • Sourced directly to couple's account",
+    "navigateMaps": "Navigate on Maps",
+    "confirmRsvp": "Confirm RSVP"
+  },
+  "camera": {
+    "title": "Venue Disposable Camera",
+    "enterNamePrompt": "What is your name?",
+    "startShooting": "Start Shooting (24 Shots)",
+    "shotsRemaining": "{count} Shots Left",
+    "expLabel": "EXP {count}/24",
+    "undeveloped": "UNDEVELOPED",
+    "rollComplete": "Roll Complete! 24 of 24 shots captured",
+    "rollCompleteDesc": "Your photos are safely stored and will be developed for you tomorrow morning at 10:00 AM!",
+    "revealCountdown": "View Reveal Countdown",
+    "developingTitle": "Photos Developing in the Darkroom",
+    "revealLockActive": "Reveal Time Lock Active",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "photosDeveloped": "Photos Developed! Showing your captured moments."
+  }
+}
+

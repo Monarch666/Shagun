@@ -1,0 +1,49 @@
+{
+  "common": {
+    "appName": "शगुन",
+    "tagline": "विवाह भेट आणि आठवणी",
+    "wedding": "शुभ विवाह",
+    "blessings": "आशीर्वाद आणि शगुन",
+    "itinerary": "लग्न सोहळा कार्यक्रम",
+    "venueCamera": "मंडप कॅमेरा",
+    "blessingWall": "शुभेच्छा भिंत",
+    "rsvp": "उपस्थिती नोंदणी (RSVP)",
+    "poweredBy": "शगुन द्वारे समर्थित"
+  },
+  "guestPortal": {
+    "weddingCelebration": "शुभ विवाह सोहळा",
+    "heroSubtitle": "ज्येष्ठांच्या आशीर्वादाने आणि आप्तस्वकीयांच्या सदिच्छांनी",
+    "sendShagun": "शगुन आणि आशीर्वाद द्या",
+    "openCamera": "मंडप कॅमेरा उघडा",
+    "noAppNeeded": "अ‍ॅप डाऊनलोड करण्याची गरज नाही",
+    "cameraBannerTitle": "लग्नातील क्षण तुमच्या डोळ्यांनी टिपून ठेवा",
+    "cameraBannerDesc": "मंडपातील सुंदर क्षण कॅमेऱ्यात कैद करा! २४ फोटोंचा रोल उपलब्ध आहे. फोटो उद्या सकाळी १०:०० वाजता उघडतील.",
+    "selectAmount": "शगुन रक्कम निवडा",
+    "customAmount": "इतर रक्कम (₹)",
+    "yourName": "आपले नाव",
+    "blessingMessage": "वधू-वरांसाठी शुभेच्छा संदेश",
+    "hideAmount": "माझी रक्कम सार्वजनिकरित्या लपवा",
+    "contributeCta": "{amount} UPI द्वारे पाठवा",
+    "securedBy": "रेझरपे द्वारे सुरक्षित • थेट जोडप्याच्या खात्यात जमा",
+    "navigateMaps": "नकाशावर मार्ग पहा",
+    "confirmRsvp": "उपस्थिती निश्चित करा"
+  },
+  "camera": {
+    "title": "मंडप डिस्पोजेबल कॅमेरा",
+    "enterNamePrompt": "कृपया आपले नाव लिहा",
+    "startShooting": "फोटो काढणे सुरू करा (२४ शॉट)",
+    "shotsRemaining": "{count} फोटो शिल्लक",
+    "expLabel": "{count}/24 फोटो",
+    "undeveloped": "प्रतीक्षेत",
+    "rollComplete": "रोल संपला! सर्व २४ फोटो टिपले गेले आहेत",
+    "rollCompleteDesc": "तुमचे फोटो सुरक्षित आहेत आणि उद्या सकाळी १०:०० वाजता दिसतील!",
+    "revealCountdown": "उलटी गिनती पहा",
+    "developingTitle": "फोटो तयार होत आहेत",
+    "revealLockActive": "फोटो उद्या सकाळी दिसतील",
+    "hours": "तास",
+    "minutes": "मिनिटे",
+    "seconds": "सेकंद",
+    "photosDeveloped": "फोटो तयार आहेत! तुम्ही टिपलेले सुंदर क्षण."
+  }
+}
+

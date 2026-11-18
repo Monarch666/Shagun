@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-marigold: #c97a16;
+  --primary-maroon: #7c1a2e;
+  --background-ivory: #faf8f5;
+  --text-dark: #1c1917;
+}
+
+body {
+  background-color: var(--background-ivory);
+  color: var(--text-dark);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Tasteful Bespoke Editorial Borders */
+.gold-gradient-border {
+  border-image: linear-gradient(to right, #d4af37, #c5a059, #b38b40) 1;
+}
+
+/* Warm Linen / Paper Background - Natural and non-AI */
+.indian-pattern-bg {
+  background-color: #faf8f5;
+  background-image: 
+    linear-gradient(to right, rgba(197, 160, 89, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(197, 160, 89, 0.04) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+/* Vintage Disposable Camera Styles */
+.camera-body {
+  background: radial-gradient(circle, #2d3748 0%, #1a202c 100%);
+  border: 4px solid #4a5568;
+  box-shadow: inset 0 2px 4px rgba(255, 255, 255, 0.1), 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+}
+
+.viewfinder-frame {
+  box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.8);
+  border: 2px solid #718096;
+}
+
+.shutter-button {
+  background: radial-gradient(circle, #e53e3e 0%, #9b2c2c 100%);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), inset 0 2px 4px rgba(255, 255, 255, 0.4);
+  transition: all 0.1s ease;
+}
+
+.shutter-button:active {
+  transform: translateY(2px) scale(0.96);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Print Styles for QR Posters */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  .poster-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-shadow: none !important;
+    border: 2px solid #881337 !important;
+    page-break-inside: avoid;
+  }
+}
